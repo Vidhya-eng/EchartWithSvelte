@@ -1,7 +1,7 @@
 <script lang="ts">
-	import Chart from "./Chart.svelte";
-	
+  import Chart from "./Chart.svelte";
 </script>
-	<main>
-<Chart/>
+
+<main>
+  <Chart />
 </main>
